@@ -1,7 +1,7 @@
 # Bionano_LocalAssembler
 Bionano local comparative assembler for complex regions. Experimental version
 
-usage: cluster.py [-h] [-x XMAP] [-q QMAP] [-r RMAP] [-o OUT] [-c CHR]
+usage: assembler.py [-h] [-x XMAP] [-q QMAP] [-r RMAP] [-o OUT] [-c CHR]
 
                   [-s START] [-e END] [-u UPSTREAM_EXTEND]
 
